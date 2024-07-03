@@ -3,14 +3,12 @@ let handler = async (m, { conn }) => {
   let caption = `
 *「 معلومات عن صاحب البوت 」*
 
-*Number :*\nwa.me/212717457920
-*instagram:*\ninstagram.com/noureddine_ouafy
+*Number :*\nwa.me/212717518501
 
-*youtube:*\nyoutube.com/@noureddineouafy2
+*instagram:https://www.instagram.com/l7arga_ispan
 
-*facebook page:*\nwww.facebook.com/profile.php?id=100063533185520
+*facebook page:https://www.facebook.com/profile.php?id=61553701960786&mibextid=ZbWKwL
 
-*script bot :* github.com/noureddineouafy
 
 `.trim()
   m.reply(caption)
